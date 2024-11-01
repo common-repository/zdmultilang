@@ -1,0 +1,174 @@
+#
+#
+# Nina Morawietz < <mailto:info@kageko.de>>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: ZdMultilang\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-05-02 14:06+0200\n"
+"PO-Revision-Date: 2008-08-01 23:35+0100\n"
+"Last-Translator: Guillermo López <guillermolopez@guillermolopez.eu>\n"
+"Language-Team: en_US <kde-i18n-doc@lists.kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: zd_multilang.php:205
+msgid "Languages"
+msgstr "Idiomas"
+
+#: zd_multilang.php:toto
+msgid "Posts & Pages"
+msgstr "Posts & Páginas"
+
+msgid "Translations"
+msgstr "Traducciones"
+
+msgid "General Options"
+msgstr "Opciones generales"
+
+msgid "Options"
+msgstr "Opciones"
+
+msgid "Options updated"
+msgstr "Opciones actualizadas"
+
+msgid "Default Language"
+msgstr "Idioma por defecto"
+
+msgid "Show Language Switcher in post"
+msgstr "Mostrar es selector de idioma en los posts"
+
+msgid "Show"
+msgstr "Mostrar"
+
+msgid "Hide"
+msgstr "Ocultar"
+
+msgid "Language Switcher Position"
+msgstr "Posición del selector de idioma"
+
+msgid "Top"
+msgstr "Arriba"
+
+msgid "Bottom"
+msgstr "Abajo"
+
+msgid "Show Language names in switcher"
+msgstr "Mostrar los nombres de los idiomas en el selector"
+
+msgid "Show Flags in switcher"
+msgstr "Mostrar las banderas en el selector"
+
+msgid "Language Switcher CSS class"
+msgstr "Clase CSS del selector de idiomas"
+
+msgid "Update options"
+msgstr "Actualizar opciones"
+
+msgid "Language Edited"
+msgstr "Idioma modificado"
+
+msgid "Edit Language"
+msgstr "Editar Idioma"
+
+msgid "Language Name"
+msgstr "Nombre del Idioma"
+
+msgid "Language Permalink"
+msgstr "Enlace permanente del idioma"
+
+msgid "Language Added"
+msgstr "Idioma añadido"
+
+msgid "Action"
+msgstr "Acción"
+
+msgid "Language Code"
+msgstr "Codigo del Idioma"
+
+msgid "Permalink"
+msgstr "Enlace permanente"
+
+msgid "Default"
+msgstr "por defecto"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Suprimir"
+
+msgid "Add Language"
+msgstr "Añadir Idioma"
+
+msgid "Language deleted"
+msgstr "Idioma suprimido"
+
+msgid "No languages defined, please define some first"
+msgstr "Ningún idoma definido, por favor define uno"
+
+msgid "Post or Page updated"
+msgstr "Posts o páginas actualizados"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Update"
+msgstr "Actualizar"
+
+msgid "Original title"
+msgstr "Título original"
+
+msgid "Published date"
+msgstr "Fecha de publicacion"
+
+msgid "%d posts or pages are translated"
+msgstr "%d de posts o páginas estan traducidos"
+
+msgid "Categories"
+msgstr "Categorias"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Link Categories"
+msgstr "Categorias de los enlaces"
+
+msgid "Original Term"
+msgstr "Termino original"
+
+msgid "Update Translation"
+msgstr "Actualizar traducción"
+
+msgid "Translate"
+msgstr "Traducir"
+
+msgid "Only use this option if you want to switch old default language with new one. This will exchange translations between them"
+msgstr "Solamente husa esta opcion si quieres cambiar tu idioma por defecto por uno nuevo. Esto las intercambiara entre ellas"
+
+msgid "Exchange Languages"
+msgstr "Intercambiar los idiomas"
+
+msgid "Default Languages Exchanged"
+msgstr "Idiomas por defecto intercambiados"
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "No"
+msgstr "No"
+
+msgid "Generate permalink for Default language"
+msgstr "Generar los enlaces permanentes para el idioma por defecto"
+
+msgid "Language Switcher"
+msgstr "Selector de idiomas"
+
+msgid "Display untranslated posts"
+msgstr "Mostrar posts sin traducir"
+
+msgid "If Yes, display link \"Translate Original post with Google Translate\""
+msgstr "Activar si para mostrar el enlace \"Traducir el post con Google Translate\""
+

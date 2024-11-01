@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zdMultilang\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dionizio Bonfim Bach <djio.com.br@gmail.com>\n"
+"Language-Team: Dionizio Bonfim Bach <djio.com.br@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: s\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+
+msgid "Translate"
+msgstr "Traduzir"
+
+msgid "Translations"
+msgstr "Traduções"
+
+msgid "Posts"
+msgstr "Posts"
+
+msgid "Pages"
+msgstr "Páginas"
+
+msgid "Categories"
+msgstr "Categorias"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Link Categories"
+msgstr "Categorias de Links"
+
+msgid "Languages"
+msgstr "Idiomas"
+
+msgid "Options"
+msgstr "Opções"
+
+msgid "Language Dashboard"
+msgstr "Painel do Idioma"
+
+msgid "Translate posts"
+msgstr "Traduzir posts"
+
+msgid "Translate pages"
+msgstr "Traduzir páginas"
+
+msgid "Translate categories"
+msgstr "Traduzir categorias"
+
+msgid "Translate tags"
+msgstr "Traduzir tags"
+
+msgid "Translate links"
+msgstr "Traduzir links"
+
+msgid "Translate link categories"
+msgstr "Traduzir categorias de link"
+
+msgid "Define languages"
+msgstr "Definir idiomas"
+
+msgid "Manage options"
+msgstr "Gerenciar opções"
+
+msgid "Default Languages Exchanged"
+msgstr "Idiomas Padrão foram trocados"
+
+msgid "Options updated"
+msgstr "Opções atualizadas"
+
+msgid "General Options"
+msgstr "Opções Gerais"
+
+msgid "Default Language"
+msgstr "Idioma Padrão"
+
+msgid "Exchange Languages"
+msgstr "Trocar Idiomas"
+
+msgid "Only use this option if you want to switch old default language with new one. This will exchange translations between them"
+msgstr "Somente use esta opção se você deseja alterar o idioma padrão antigo por este novo. Isto trocará as traduções entre eles"
+
+msgid "Generate permalink for Default language"
+msgstr "Gerar Link Permanente para o Idioma Padrão"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Display untranslated posts"
+msgstr "Exibir artigos sem tradução"
+
+msgid "Show"
+msgstr "Mostrar"
+
+msgid "Hide"
+msgstr "Esconder"
+
+msgid "If Yes, display link \"Translate Original post with Google Translate\""
+msgstr "Se Sim, mostrar link \"Traduzir artigo original usando o Tradutor do Google\""
+
+msgid "Language Switcher"
+msgstr "Troca de Idioma"
+
+msgid "Show Language Switcher in post"
+msgstr "Mostrar Troca de Idioma no artigo"
+
+msgid "Language Switcher Position"
+msgstr "Posição da Troca de Idioma"
+
+msgid "Top"
+msgstr "No topo"
+
+msgid "Bottom"
+msgstr "Abaixo"
+
+msgid "Show Language names in switcher"
+msgstr "Mostrar nomes na Troca de Idioma"
+
+msgid "Show Flags in switcher"
+msgstr "Mostrar bandeiras na Troca de Idioma"
+
+msgid "Language Switcher CSS class"
+msgstr "Classe CSS da Troca de Idioma"
+
+msgid "Update options"
+msgstr "Atualizar opções"
+
+msgid "Language Edited"
+msgstr "Idioma Editado"
+
+msgid "Language Name"
+msgstr "Nome do Idioma"
+
+msgid "Language Permalink"
+msgstr "Link Permanente do Idioma"
+
+msgid "Blog name"
+msgstr "Nome do Site"
+
+msgid "Blog description"
+msgstr "Descrição do Site"
+
+msgid "Edit Language"
+msgstr "Editar Idioma"
+
+msgid "Language Added"
+msgstr "Idioma Adicionado"
+
+msgid "Action"
+msgstr "Ação"
+
+msgid "Language Code"
+msgstr "Código do Idioma"
+
+msgid "Permalink"
+msgstr "Link Permanente"
+
+msgid "Default"
+msgstr "Padrão"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Remover"
+
+msgid "Add Language"
+msgstr "Adicionar Idioma"
+
+msgid "Show/Hide Available default codes"
+msgstr "Mostrar/Ocultar códigos disponíveis"
+
+msgid "Language deleted"
+msgstr "Idioma removido"
+
+msgid "Posts & Pages"
+msgstr "Artigos & Páginas"
+
+msgid "No languages defined, please define some first"
+msgstr "Nenhum Idioma definido, favor definir alguns antes de prossegir"
+
+msgid "Post or Page updated"
+msgstr "Artigo ou Página atualizado(a)"
+
+msgid "Translation Status"
+msgstr "Estado das traduções"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "See Original post"
+msgstr "Ver Post original"
+
+msgid "Import translation from Google Translate (may not work)"
+msgstr "Importar tradução do Google Translate (pode não funcionar)"
+
+msgid "See translation in Google Translate (if previous link do not work)"
+msgstr "Ver tradução no Google Translate (se o link anterior não funcionar)"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Excerpt"
+msgstr "Resumo"
+
+msgid "Original title"
+msgstr "Título original"
+
+msgid "%d posts or pages are translated"
+msgstr "%d artigos ou páginas estão traduzidos"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "Original Link"
+msgstr "Link Original"
+
+msgid "Original Term"
+msgstr "Termo Original"
+
+msgid "Update Translation"
+msgstr "Atualizar Tradução"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Display Languages Name"
+msgstr "Mostrar Nome dos Idiomas"
+
+msgid "Published date"
+msgstr "Data de publicação"
+
+msgid "Published"
+msgstr "Publicado"
+
+msgid "Draft"
+msgstr "Rascunho"
+
+msgid "published"
+msgstr "publicado"
+
+msgid "draft"
+msgstr "rascunho"
+
+#~ msgid "Update"
+#~ msgstr "Atualizar"
+

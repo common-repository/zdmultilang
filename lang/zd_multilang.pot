@@ -1,0 +1,257 @@
+"Project-Id-Version: ZdMultilanguage"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2008-05-02 14:06+0200"
+"PO-Revision-Date: "
+"Last-Translator: Anthony <anthony@zen-dreams.com>"
+"Language-Team: "
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Poedit-KeywordsList: __;_e"
+"X-Poedit-Basepath: ."
+"X-Poedit-SearchPath-0: ."
+msgid "Translate"
+msgstr ""
+
+msgid "Translations"
+msgstr ""
+
+msgid "Posts"
+msgstr ""
+
+msgid "Pages"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Links"
+msgstr ""
+
+msgid "Link Categories"
+msgstr ""
+
+msgid "Languages"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Language Dashboard"
+msgstr ""
+
+msgid "Translate posts"
+msgstr ""
+
+msgid "Translate pages"
+msgstr ""
+
+msgid "Translate categories"
+msgstr ""
+
+msgid "Translate tags"
+msgstr ""
+
+msgid "Translate links"
+msgstr ""
+
+msgid "Translate link categories"
+msgstr ""
+
+msgid "Define languages"
+msgstr ""
+
+msgid "Manage options"
+msgstr ""
+
+msgid "Default Languages Exchanged"
+msgstr ""
+
+msgid "Options updated"
+msgstr ""
+
+msgid "General Options"
+msgstr ""
+
+msgid "Default Language"
+msgstr ""
+
+msgid "Exchange Languages"
+msgstr ""
+
+msgid "Only use this option if you want to switch old default language with new one. This will exchange translations between them"
+msgstr ""
+
+msgid "Generate permalink for Default language"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Display untranslated posts"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "If Yes, display link \"Translate Original post with Google Translate\""
+msgstr ""
+
+msgid "Language Switcher"
+msgstr ""
+
+msgid "Show Language Switcher in post"
+msgstr ""
+
+msgid "Language Switcher Position"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Show Language names in switcher"
+msgstr ""
+
+msgid "Show Flags in switcher"
+msgstr ""
+
+msgid "Language Switcher CSS class"
+msgstr ""
+
+msgid "Update options"
+msgstr ""
+
+msgid "Language Edited"
+msgstr ""
+
+msgid "Language Name"
+msgstr ""
+
+msgid "Language Permalink"
+msgstr ""
+
+msgid "Blog name"
+msgstr ""
+
+msgid "Blog description"
+msgstr ""
+
+msgid "Edit Language"
+msgstr ""
+
+msgid "Language Added"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Language Code"
+msgstr ""
+
+msgid "Permalink"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Add Language"
+msgstr ""
+
+msgid "Show/Hide Available default codes"
+msgstr ""
+
+msgid "Language deleted"
+msgstr ""
+
+msgid "Posts & Pages"
+msgstr ""
+
+msgid "No languages defined, please define some first"
+msgstr ""
+
+msgid "Post or Page updated"
+msgstr ""
+
+msgid "Translation Status"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "See Original post"
+msgstr ""
+
+msgid "Import translation from Google Translate (may not work)"
+msgstr ""
+
+msgid "See translation in Google Translate (if previous link do not work)"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Excerpt"
+msgstr ""
+
+msgid "Original title"
+msgstr ""
+
+msgid "%d posts or pages are translated"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Original Link"
+msgstr ""
+
+msgid "Original Term"
+msgstr ""
+
+msgid "Update Translation"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Display Languages Name"
+msgstr ""
+
+msgid "Published date"
+msgstr ""
+
+msgid "Published"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "published"
+msgstr ""
+
+msgid "draft"
+msgstr ""
